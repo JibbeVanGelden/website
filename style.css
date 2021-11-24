@@ -17,3 +17,9 @@ color: white;
 margin: auto;
 max-width: 500px;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
